@@ -1,6 +1,7 @@
 # CryptoTrains
 
-![Certificate_Cryptotrains](https://user-images.githubusercontent.com/81981737/147821110-c567c992-906b-4813-917c-143cd8945562.jpg)
+
+![cryptotrains](https://user-images.githubusercontent.com/121312707/229458515-a5fe0343-dc16-4397-8d0b-87d3fc99124e.png)
 
 /**
  *Submitted for verification at BscScan.com on 2021-12-31
@@ -644,5 +645,4 @@ contract CTRAIN is ERC20, ERC20Burnable, Ownable {
     }
 }
 
-![cryptotrains](https://user-images.githubusercontent.com/121312707/229458391-24bc3e3b-a886-45b5-acf2-d4e0a8037403.png)
 
