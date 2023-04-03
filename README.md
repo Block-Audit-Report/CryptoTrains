@@ -643,3 +643,6 @@ contract CTRAIN is ERC20, ERC20Burnable, Ownable {
         _mint(msg.sender, 100000000 * 10 ** decimals());
     }
 }
+
+![cryptotrains](https://user-images.githubusercontent.com/121312707/229458391-24bc3e3b-a886-45b5-acf2-d4e0a8037403.png)
+
